@@ -20,7 +20,7 @@ Hi! I'm **Arush**, a backend + DevOps enthusiast from India 🇮🇳. I love cra
 Currently working at **XenonStack**, solving real-world Bakend and Cloud problems.
 
 <p align="center">
-  <a href="[https://your-resume-link.com](https://drive.google.com/file/d/1bJUVZnS20UJ1sk6opso3JCCq50muqzUo/view?usp=drive_link)" target="_blank">
+  <a href="[https://drive.google.com/file/d/1bJUVZnS20UJ1sk6opso3JCCq50muqzUo/view?usp=drive_link]" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Button"/>
   </a>
 </p>
