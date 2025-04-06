@@ -1,90 +1,108 @@
-# 👋 Hey there, I'm Arush Sharma!
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+<!--   <img src="https://media.giphy.com/media/IeRdg7zMxH2dHP1lHk/giphy.gif" width="120" /> -->
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="120" />
+</p>
 
-🚀 **Backend & DevOps Engineer** | 💡 Passionate Problem Solver | ☁️ AWS Certified Solutions Architect
-
-Welcome to my GitHub! I'm a Backend & DevOps Engineer with a strong foundation in building **cloud-native systems**, **scalable microservices**, and **automated CI/CD pipelines**. I thrive at the intersection of performance, scalability, and developer experience.
+<p align="center">
+  🚀 Backend & DevOps Engineer | ☁️ AWS Certified | 🛠️ Building Scalable Systems
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🏡 Based in **Mohali, Punjab, India**
-- 🎓 **B.Tech (Information Technology)** - Dr. A.P.J. Abdul Kalam Technical University | *CGPA: 8.0*
-- 🔧 Currently building awesome stuff at **XenonStack**
-- 💼 1.5+ years of hands-on experience in designing, building, and deploying **robust backend systems**
-- ☁️ **AWS Certified Solutions Architect – Associate**
+Hi! I'm **Arush**, a backend + DevOps enthusiast from India 🇮🇳. I love crafting APIs, deploying microservices, and building things that scale & just *work*. I automate everything, write clean code, and chase efficiency like a geeky Sherlock 🕵️‍♂️.
+
+Currently working at **XenonStack**, solving real-world Bakend and Cloud problems.
 
 ---
 
-## 🔧 Tech Toolbox
+## ⚙️ Tech Stack
 
-### 🚀 Backend & DevOps
-- **Cloud**: AWS (IAM, EC2, S3, RDS, Lambda, EKS)
-- **DevOps**: Docker, Kubernetes, GitLab CI/CD, Terraform
-- **Languages**: Node.js, Python, TypeScript, Go
-- **Databases**: MongoDB, MySQL, PostgreSQL, Redis
-- **Architecture**: Monoliths, Microservices, Event-Driven Systems
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-### 🌐 Web & Frontend
-- Next.js, React.js, Clerk, Tailwind CSS
+  <!-- Web / Frontend -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <!-- DevOps / Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Experience
-
-### 💼 **Software Engineer @ XenonStack**  
-*Feb 2024 – Present | Mohali, Punjab*  
-- Architected secure, scalable cloud infrastructure on AWS (VPC, EC2 Auto Scaling, ELB, EKS)
-- Integrated API Gateway & AWS Lambda for serverless backends
-- Designed CI/CD pipelines using GitLab with automated alerting via webhooks
-- Containerized & deployed microservices using Docker & Kubernetes
-- Built a CLI tool in Python for lightning-fast agent deployments 🚀
-
----
-
-## 📦 Highlight Projects
+## 📦 Cool Projects
 
 ### 🎥 [ImpactGenie](https://github.com/arushsharma/impactgenie)
 > *AI-Powered Video Management Platform*
 
-- 🌐 Tech: `Next.js`, `Node.js`, `Python`, `Kubernetes`
-- 🔐 Clerk-authenticated YouTube channel management
-- ⚙️ Built scalable microservices & real-time video processing engines
+- Scalable microservices with real-time processing
+- Python workers for video-to-content pipelines
+- Clerk-authenticated secure channel access
 
 ---
 
 ### ☁️ [JPSS Cloud](https://github.com/arushsharma/jpss-cloud)
 > *Self-Hosted Private Cloud Storage*
 
-- 📦 Tech: `Next.js`, `MinIO`, `Tailscale`, `Docker`
-- 🔐 Remote, secure file access with Tailscale VPN
-- 🗃️ MinIO-backed scalable object storage
+- Secure object storage with MinIO
+- Remote access via Tailscale VPN
+- Clean Next.js frontend for managing files
 
 ---
 
 ### 📱 [MakeMates](https://github.com/arushsharma/makemates)
 > *AI-Based Social Media Platform*
 
-- 💬 Real-time chat via `Socket.IO` & RabbitMQ
-- 🧠 Backend AI services for automatic caption generation
-- 🏗️ Microservices architecture deployed on Kubernetes
+- AI caption generation with event-driven backend
+- Real-time chat with Socket.IO & RabbitMQ
+- Microservices + Kubernetes + PostgreSQL
 
 ---
 
-## 📜 Certifications
+## 🧾 Certifications
 
-- ✅ **AWS Certified Solutions Architect – Associate**
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/arushsharma)  
-- 🛠️ [GitHub](https://github.com/arushsharma)  
-- 📧 [mailatarush@gmail.com](mailto:mailatarush@gmail.com)
+- 🏅 **AWS Certified Solutions Architect – Associate**
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+## 🤝 Connect with Me
 
-Thanks for stopping by! ⭐️ Feel free to explore my projects, raise issues, or just say hi. I'm always up for collaborations or side projects.  
+<p align="center">
+  <a href="mailto:mailatarush@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arushsharma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/arushsharma">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160" />
+</p>
+
+> _“Automate the boring, build the exciting.”_  
+Thanks for scrolling! 🧠 Feel free to check out my work or reach out anytime.
